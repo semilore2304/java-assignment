@@ -42,7 +42,7 @@ const borrowerName= null;
 console.log(borrowerName);
 
 
-const returnDate='';
+const returnDate;
 console.log(returnDate);
 
 
